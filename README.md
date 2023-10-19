@@ -14,6 +14,14 @@ En la carpeta [Entornos Web con Vue.js](https://github.com/Djacamo01/Trabajos-Un
 
 Dentro de esta carpeta, puedes explorar y encontrar documentos en PDF, informes, código fuente y otros recursos relacionados con proyectos específicos relacionados con Vue.js. Si estás interesado en el desarrollo web o Vue.js, ¡seguro encontrarás esta sección fascinante! 🔍
 
+## Proyectos Independientes 🚀
+
+La sección de [Proyectos Independientes](https://github.com/Djacamo01/Trabajos-Universidad/tree/main/proyectos%20independientes) es un espacio dedicado a proyectos individuales que he desarrollado a lo largo de mi carrera. Uno de los proyectos destacados en esta sección es el "Proyecto Universidad".
+
+### Proyecto Universidad (C#) 🎓
+
+El "Proyecto Universidad" es un emocionante proyecto desarrollado en C# que forma parte de mi experiencia universitaria. En esta carpeta, encontrarás el código fuente, informes y recursos relacionados con este proyecto en particular. Este proyecto representa mi dedicación y habilidades en la programación en C#.
+
 ## Tipos de Archivos 📄
 
 Dentro de cada carpeta, encontrarás varios tipos de archivos, que pueden incluir:
