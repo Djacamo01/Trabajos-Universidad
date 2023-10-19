@@ -8,6 +8,12 @@ En este espacio, encontrarás una colección de los proyectos que he realizado d
 
 El repositorio está organizado en carpetas que corresponden a las diferentes materias, cursos y proyectos que he abordado a lo largo de mi carrera universitaria. Cada carpeta contiene archivos que representan el trabajo y los resultados de esos proyectos. Puedes explorar las carpetas y proyectos de tu interés para obtener más detalles. 🗂️
 
+## Entornos Web con Vue.js 💻
+
+En la carpeta [Entornos Web con Vue.js](https://github.com/Djacamo01/Trabajos-Universidad/tree/main/Entornos%20WEb%20con%20Vue.js), encontrarás una serie de proyectos relacionados con el desarrollo web utilizando el marco de trabajo Vue.js. Vue.js es una herramienta increíblemente versátil y poderosa para crear aplicaciones web interactivas y dinámicas. 🌐
+
+Dentro de esta carpeta, puedes explorar y encontrar documentos en PDF, informes, código fuente y otros recursos relacionados con proyectos específicos relacionados con Vue.js. Si estás interesado en el desarrollo web o Vue.js, ¡seguro encontrarás esta sección fascinante! 🔍
+
 ## Tipos de Archivos 📄
 
 Dentro de cada carpeta, encontrarás varios tipos de archivos, que pueden incluir:
