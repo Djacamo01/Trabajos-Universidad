@@ -1,0 +1,11 @@
+# Ignorar carpetas de compilación
+/Microsft learn/obj/
+/Microsft learn/bin/
+
+# Ignorar archivos de solución y proyecto
+/Microsft learn/*.sln
+/Microsft learn/*.csproj
+/Microsft learn/*.csproj.user
+
+# Ignorar carpeta de propiedades
+/Microsft learn/Properties/
