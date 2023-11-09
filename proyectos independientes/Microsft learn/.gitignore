@@ -9,3 +9,5 @@
 
 # Ignorar carpeta de propiedades
 /Microsft learn/Properties/
+/Microsft learn/obj/
+/Microsft learn/.vs/
