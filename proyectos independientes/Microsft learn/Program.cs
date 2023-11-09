@@ -131,6 +131,6 @@ Console.WriteLine("Student\t  \tExam Score \tOverall \tGrade\t Extra Credit \n")
 
     Console.WriteLine($"{currentStudent}\t \t{noteExam}\t\t{currentStudentGrade}\t\t{currentStudentsLetterGrade}\t{creditXtra}  ({creditXtra} pts)");
     }
-
+console.WriteLine("esto es prueba");
 Console.WriteLine("Press the Enter key to continue");
 Console.ReadLine();
