@@ -1,0 +1,14 @@
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\bin\Debug\net7.0\Microsoft Learn.exe
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\bin\Debug\net7.0\Microsoft Learn.deps.json
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\bin\Debug\net7.0\Microsoft Learn.runtimeconfig.json
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\bin\Debug\net7.0\Microsoft Learn.dll
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\bin\Debug\net7.0\Microsoft Learn.pdb
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\obj\Debug\net7.0\Microsoft Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\obj\Debug\net7.0\Microsoft Learn.AssemblyInfoInputs.cache
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\obj\Debug\net7.0\Microsoft Learn.AssemblyInfo.cs
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\obj\Debug\net7.0\Microsoft Learn.csproj.CoreCompileInputs.cache
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\obj\Debug\net7.0\Microsoft Learn.dll
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\obj\Debug\net7.0\refint\Microsoft Learn.dll
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\obj\Debug\net7.0\Microsoft Learn.pdb
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\obj\Debug\net7.0\Microsoft Learn.genruntimeconfig.cache
+C:\Users\LenovoUser\Desktop\Proyectos universidad\proyectos independientes\Microsoft Learn\obj\Debug\net7.0\ref\Microsoft Learn.dll

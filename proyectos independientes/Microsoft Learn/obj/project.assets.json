@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\LenovoUser\\Desktop\\Proyectos universidad\\proyectos independientes\\Proyecto Universidad\\Proyecto Universidad.csproj",
-      "projectName": "Proyecto Universidad",
-      "projectPath": "C:\\Users\\LenovoUser\\Desktop\\Proyectos universidad\\proyectos independientes\\Proyecto Universidad\\Proyecto Universidad.csproj",
+      "projectUniqueName": "C:\\Users\\LenovoUser\\Desktop\\Proyectos universidad\\proyectos independientes\\Microsoft Learn\\Microsoft Learn.csproj",
+      "projectName": "Microsoft Learn",
+      "projectPath": "C:\\Users\\LenovoUser\\Desktop\\Proyectos universidad\\proyectos independientes\\Microsoft Learn\\Microsoft Learn.csproj",
       "packagesPath": "C:\\Users\\LenovoUser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\LenovoUser\\Desktop\\Proyectos universidad\\proyectos independientes\\Proyecto Universidad\\obj\\",
+      "outputPath": "C:\\Users\\LenovoUser\\Desktop\\Proyectos universidad\\proyectos independientes\\Microsoft Learn\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
